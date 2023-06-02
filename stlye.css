@@ -1,0 +1,29 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+
+.tempo {
+    font-size: 25pt;
+}
+
+div {
+    text-align: center;
+    padding-top: 30px;
+}
+
+input {
+    width: 150px; /* largura dos botões*/
+    height: 60px; /* altura dos botões */
+    margin: 20px; /* distancia entre os botões */
+    background-color: #ffa600;
+    border-color: #f3f3f3; /* cor da borda dos botões */
+    color: white; /* cor da fonte */
+
+}
+
